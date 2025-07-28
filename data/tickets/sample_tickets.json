@@ -1,0 +1,52 @@
+[
+  {
+    "id": "T001",
+    "subject": "Password reset not working",
+    "message": "I've tried to reset my password multiple times but I'm not receiving the email. This is urgent as I need to access my account for work.",
+    "customer_email": "john.doe@company.com",
+    "timestamp": "2024-01-15T09:30:00Z",
+    "expected_category": "Technical",
+    "expected_priority": "High",
+    "expected_response_type": "Troubleshooting"
+  },
+  {
+    "id": "T002", 
+    "subject": "Billing question about subscription",
+    "message": "I was charged twice this month for my subscription. Can you please help me understand why and get a refund for the duplicate charge?",
+    "customer_email": "sarah.smith@email.com",
+    "timestamp": "2024-01-15T14:20:00Z",
+    "expected_category": "Billing",
+    "expected_priority": "Medium",
+    "expected_response_type": "Account_Review"
+  },
+  {
+    "id": "T003",
+    "subject": "Feature request for mobile app",
+    "message": "It would be great if you could add dark mode to the mobile app. Many users have been asking for this feature.",
+    "customer_email": "mike.jones@gmail.com", 
+    "timestamp": "2024-01-15T16:45:00Z",
+    "expected_category": "Feature_Request",
+    "expected_priority": "Low",
+    "expected_response_type": "Product_Feedback"
+  },
+  {
+    "id": "T004",
+    "subject": "Account locked after failed login attempts",
+    "message": "My account got locked after I entered the wrong password a few times. I can't access any of my data and this is blocking my work completely.",
+    "customer_email": "alex.wilson@business.com",
+    "timestamp": "2024-01-15T11:15:00Z",
+    "expected_category": "Technical", 
+    "expected_priority": "Critical",
+    "expected_response_type": "Account_Recovery"
+  },
+  {
+    "id": "T005",
+    "subject": "General inquiry about pricing plans",
+    "message": "I'm interested in upgrading my plan but want to understand the differences between the Pro and Enterprise tiers. Can someone explain the benefits?",
+    "customer_email": "lisa.brown@startup.io",
+    "timestamp": "2024-01-15T13:30:00Z",
+    "expected_category": "Sales",
+    "expected_priority": "Medium", 
+    "expected_response_type": "Information"
+  }
+]

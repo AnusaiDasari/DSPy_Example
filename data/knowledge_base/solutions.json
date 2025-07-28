@@ -1,0 +1,32 @@
+[
+  {
+    "category": "Technical",
+    "topic": "Password Reset",
+    "solution": "For password reset issues: 1) Check spam/junk folder, 2) Try using a different email, 3) Clear browser cache and cookies, 4) Wait 10 minutes between reset attempts. If issues persist, we can manually reset your password.",
+    "escalation_required": false
+  },
+  {
+    "category": "Technical", 
+    "topic": "Account Locked",
+    "solution": "Account lockouts are automatic after 5 failed login attempts. We can unlock your account immediately. For security, we'll need to verify your identity first. Please reply with your account registration details.",
+    "escalation_required": true
+  },
+  {
+    "category": "Billing",
+    "topic": "Duplicate Charges",
+    "solution": "We apologize for any billing confusion. Duplicate charges usually occur due to payment method changes or subscription renewals. We'll investigate your account and process any necessary refunds within 3-5 business days.",
+    "escalation_required": true
+  },
+  {
+    "category": "Sales",
+    "topic": "Plan Comparison", 
+    "solution": "Our Pro plan includes advanced features like API access and priority support, while Enterprise adds custom integrations and dedicated account management. I'll send you a detailed comparison chart and can schedule a call to discuss your specific needs.",
+    "escalation_required": false
+  },
+  {
+    "category": "Feature_Request",
+    "topic": "App Features",
+    "solution": "Thank you for your feature suggestion! We collect all user feedback and our product team reviews requests quarterly. While I can't guarantee implementation timelines, your input helps shape our roadmap. I'll add your request to our feature backlog.",
+    "escalation_required": false
+  }
+]
